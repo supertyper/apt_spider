@@ -1,0 +1,18 @@
+{
+    "website": "https: //redqueen.tj-un.com/IntelHome.html",
+    "name": "APT-C-09Dropper",
+    "filename": "IndiamakesKashmirDangerousPlaceintheWorld.xlsm",
+    "ip": "210.52.224.2",
+    "domain": "capstoneturbine.cechire.com",
+    "url": "capstoneturbine.cechire.com",
+    "certificate": "01be746568576d7aeceec8ee6d0749f1260cd686",
+    "email": "edithjp60@ryoichi7510.isamu10.investmentweb.xyz",
+    "md5": "0D38ADC0B048BAB3BD91861D42CD39DF",
+    "sha1": "",
+    "sha256": "",
+    "filetype": "",
+    "aptorganization": "APT-C-09",
+    "disclosuretime": "2019-08-13",
+    "reference": "http: //example",
+    "malbehavior":""
+}

@@ -1,0 +1,90 @@
+[2020-03-21 00:57:57,675]  [File][red_drip7][line:17]  INFO:  wwww
+[2020-03-21 00:57:57,676]  [File][crawler][line:23]  Level 22:  red_drip7插件加载成功,线程1
+[2020-03-21 14:48:52,548]  [File][config.py][line:32]  ERROR:  No section: 'mail'
+[2020-03-21 14:50:31,681]  [File][config.py][line:32]  ERROR:  No section: 'mail'
+[2020-03-21 14:50:31,683]  [File][config.py][line:50]  ERROR:  No section: 'mongo'
+[2020-03-21 14:50:31,683]  [File][config.py][line:60]  ERROR:  No section: 'redis'
+[2020-03-21 14:50:31,690]  [File][red_drip7][line:17]  INFO:  wwww
+[2020-03-21 14:50:31,690]  [File][crawler][line:22]  INFO:  red_drip7插件加载成功,线程1
+[2020-03-21 15:38:34,648]  [File][set_config.py][line:32]  ERROR:  No section: 'mail'
+[2020-03-21 15:38:34,649]  [File][set_config.py][line:50]  ERROR:  No section: 'mongo'
+[2020-03-21 15:38:34,649]  [File][set_config.py][line:60]  ERROR:  No section: 'redis'
+[2020-03-21 15:38:34,652]  [File][red_drip7][line:17]  INFO:  wwww
+[2020-03-21 15:38:34,653]  [File][crawler][line:22]  INFO:  red_drip7插件加载成功,线程1
+[2020-03-21 15:47:07,620]  [File][red_drip7][line:17]  INFO:  wwww
+[2020-03-21 15:47:07,621]  [File][crawler][line:22]  INFO:  red_drip7插件加载成功,线程1
+[2020-03-21 15:48:51,693]  [File][good][line:17]  INFO:  good damao
+[2020-03-21 15:48:51,693]  [File][crawler][line:22]  INFO:  good插件加载成功,线程1
+[2020-03-21 15:48:51,694]  [File][crawler][line:22]  INFO:  red_drip7插件加载成功,线程1
+[2020-03-21 21:04:09,495]  [File][spider_red_drip7.py][line:90]  ERROR:  Unicode-objects must be encoded before hashing
+[2020-03-21 21:04:09,495]  [File][spider_red_drip7.py][line:90]  ERROR:  Unicode-objects must be encoded before hashing
+[2020-03-21 21:04:09,561]  [File][crawler][line:22]  INFO:  spider_red_drip7插件加载成功,线程1
+[2020-03-21 21:05:03,367]  [File][spider_red_drip7.py][line:90]  ERROR:  Unicode-objects must be encoded before hashing
+[2020-03-21 21:05:03,367]  [File][spider_red_drip7.py][line:90]  ERROR:  Unicode-objects must be encoded before hashing
+[2020-03-21 21:05:03,374]  [File][crawler][line:22]  INFO:  spider_red_drip7插件加载成功,线程1
+[2020-03-21 21:09:59,433]  [File][spider_red_drip7.py][line:90]  ERROR:  Unicode-objects must be encoded before hashing
+[2020-03-21 21:09:59,433]  [File][spider_red_drip7.py][line:90]  ERROR:  Unicode-objects must be encoded before hashing
+[2020-03-21 21:09:59,441]  [File][crawler][line:22]  INFO:  spider_red_drip7插件加载成功,线程1
+[2020-03-21 21:10:44,524]  [File][crawler][line:22]  INFO:  spider_red_drip7插件加载成功,线程1
+[2020-03-21 21:14:54,089]  [File][spider_red_drip7.py][line:90]  ERROR:  Unicode-objects must be encoded before hashing
+[2020-03-21 21:14:54,089]  [File][spider_red_drip7.py][line:90]  ERROR:  Unicode-objects must be encoded before hashing
+[2020-03-21 21:14:54,154]  [File][crawler][line:22]  INFO:  spider_red_drip7插件加载成功,线程1
+[2020-03-21 21:15:32,090]  [File][spider_red_drip7.py][line:90]  ERROR:  'NoneType' object has no attribute 'hexdigest'
+[2020-03-21 21:15:32,090]  [File][spider_red_drip7.py][line:90]  ERROR:  'NoneType' object has no attribute 'hexdigest'
+[2020-03-21 21:15:32,167]  [File][crawler][line:22]  INFO:  spider_red_drip7插件加载成功,线程1
+[2020-03-21 21:16:37,905]  [File][spider_red_drip7.py][line:90]  ERROR:  'NoneType' object has no attribute 'hexdigest'
+[2020-03-21 21:16:37,905]  [File][spider_red_drip7.py][line:90]  ERROR:  'NoneType' object has no attribute 'hexdigest'
+[2020-03-21 21:16:37,968]  [File][crawler][line:22]  INFO:  spider_red_drip7插件加载成功,线程1
+[2020-03-21 21:24:41,701]  [File][spider_red_drip7.py][line:90]  ERROR:  port must be an instance of int
+[2020-03-21 21:24:41,701]  [File][spider_red_drip7.py][line:90]  ERROR:  port must be an instance of int
+[2020-03-21 21:24:41,790]  [File][crawler][line:22]  INFO:  spider_red_drip7插件加载成功,线程1
+[2020-03-21 21:31:01,139]  [File][spider_red_drip7.py][line:90]  ERROR:  'mongo'
+[2020-03-21 21:31:01,139]  [File][spider_red_drip7.py][line:90]  ERROR:  'mongo'
+[2020-03-21 21:33:26,759]  [File][spider_red_drip7.py][line:90]  ERROR:  port must be an instance of int
+[2020-03-21 21:33:26,759]  [File][spider_red_drip7.py][line:90]  ERROR:  port must be an instance of int
+[2020-03-21 21:35:51,220]  [File][spider_red_drip7.py][line:90]  ERROR:  port must be an instance of int
+[2020-03-21 21:35:51,220]  [File][spider_red_drip7.py][line:90]  ERROR:  port must be an instance of int
+[2020-03-21 21:35:51,311]  [File][crawler][line:22]  INFO:  spider_red_drip7插件加载成功,线程1
+[2020-03-21 21:36:02,514]  [File][spider_red_drip7.py][line:90]  ERROR:  port must be an instance of int
+[2020-03-21 21:36:02,514]  [File][spider_red_drip7.py][line:90]  ERROR:  port must be an instance of int
+[2020-03-21 21:36:02,589]  [File][crawler][line:22]  INFO:  spider_red_drip7插件加载成功,线程1
+[2020-03-21 21:36:36,318]  [File][spider_red_drip7.py][line:90]  ERROR:  insert_many() got an unexpected keyword argument 'order'
+[2020-03-21 21:36:36,318]  [File][spider_red_drip7.py][line:90]  ERROR:  insert_many() got an unexpected keyword argument 'order'
+[2020-03-21 21:36:36,392]  [File][crawler][line:22]  INFO:  spider_red_drip7插件加载成功,线程1
+[2020-03-21 21:37:51,785]  [File][spider_red_drip7.py][line:90]  ERROR:  document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+[2020-03-21 21:37:51,785]  [File][spider_red_drip7.py][line:90]  ERROR:  document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+[2020-03-21 21:37:51,857]  [File][crawler][line:22]  INFO:  spider_red_drip7插件加载成功,线程1
+[2020-03-21 21:39:37,877]  [File][spider_red_drip7.py][line:90]  ERROR:  document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+[2020-03-21 21:39:37,877]  [File][spider_red_drip7.py][line:90]  ERROR:  document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+[2020-03-21 21:39:37,952]  [File][crawler][line:22]  INFO:  spider_red_drip7插件加载成功,线程1
+[2020-03-21 21:40:23,625]  [File][spider_red_drip7.py][line:90]  ERROR:  document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+[2020-03-21 21:40:23,625]  [File][spider_red_drip7.py][line:90]  ERROR:  document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+[2020-03-21 21:40:23,705]  [File][crawler][line:22]  INFO:  spider_red_drip7插件加载成功,线程1
+[2020-03-21 21:42:23,383]  [File][spider_red_drip7.py][line:90]  ERROR:  documents must be a non-empty list
+[2020-03-21 21:42:23,383]  [File][spider_red_drip7.py][line:90]  ERROR:  documents must be a non-empty list
+[2020-03-21 21:42:23,466]  [File][crawler][line:22]  INFO:  spider_red_drip7插件加载成功,线程1
+[2020-03-21 21:43:12,278]  [File][crawler][line:22]  INFO:  spider_red_drip7插件加载成功,线程1
+[2020-03-21 21:45:22,371]  [File][crawler][line:22]  INFO:  spider_red_drip7插件加载成功,线程1
+[2020-03-21 21:46:46,214]  [File][spider_red_drip7.py][line:90]  ERROR:  batch op errors occurred
+[2020-03-21 21:46:46,214]  [File][spider_red_drip7.py][line:90]  ERROR:  batch op errors occurred
+[2020-03-21 21:46:46,303]  [File][crawler][line:22]  INFO:  spider_red_drip7插件加载成功,线程1
+[2020-03-21 21:51:40,365]  [File][spider_red_drip7.py][line:90]  ERROR:  batch op errors occurred
+[2020-03-21 21:51:40,365]  [File][spider_red_drip7.py][line:90]  ERROR:  batch op errors occurred
+[2020-03-21 21:51:40,488]  [File][crawler][line:22]  INFO:  spider_red_drip7插件加载成功,线程1
+[2020-03-21 22:04:17,963]  [File][spider_red_drip7.py][line:90]  ERROR:  batch op errors occurred
+[2020-03-21 22:04:17,963]  [File][spider_red_drip7.py][line:90]  ERROR:  batch op errors occurred
+[2020-03-21 22:04:18,042]  [File][crawler][line:22]  INFO:  spider_red_drip7插件加载成功,线程1
+[2020-03-21 22:04:46,214]  [File][spider_red_drip7.py][line:90]  ERROR:  batch op errors occurred
+[2020-03-21 22:04:46,214]  [File][spider_red_drip7.py][line:90]  ERROR:  batch op errors occurred
+[2020-03-21 22:04:46,300]  [File][crawler][line:22]  INFO:  spider_red_drip7插件加载成功,线程1
+[2020-03-21 22:08:50,313]  [File][spider_red_drip7.py][line:97]  ERROR:  batch op errors occurred
+[2020-03-21 22:08:50,313]  [File][spider_red_drip7.py][line:97]  ERROR:  batch op errors occurred
+[2020-03-21 22:08:50,383]  [File][crawler][line:22]  INFO:  spider_red_drip7插件加载成功,线程1
+[2020-03-21 22:10:09,346]  [File][spider_red_drip7.py][line:97]  ERROR:  batch op errors occurred
+[2020-03-21 22:10:09,346]  [File][spider_red_drip7.py][line:97]  ERROR:  batch op errors occurred
+[2020-03-21 22:10:09,527]  [File][crawler][line:22]  INFO:  spider_red_drip7插件加载成功,线程1
+[2020-03-21 22:10:36,292]  [File][spider_red_drip7.py][line:97]  ERROR:  batch op errors occurred
+[2020-03-21 22:10:36,292]  [File][spider_red_drip7.py][line:97]  ERROR:  batch op errors occurred
+[2020-03-21 22:10:36,383]  [File][crawler][line:22]  INFO:  spider_red_drip7插件加载成功,线程1
+[2020-03-21 22:22:05,264]  [File][crawler][line:22]  INFO:  spider_red_drip7插件加载成功,线程1
+[2020-03-21 22:23:04,013]  [File][crawler][line:22]  INFO:  spider_red_drip7插件加载成功,线程1
